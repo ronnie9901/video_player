@@ -13,15 +13,16 @@ Welcome to the **MixMuse Music Application**, your ultimate music companion! ðŸŽ
 
 <h1> Audio Player  </h1>
 <div>
-   <img  height= "550" src="https://github.com/user-attachments/assets/99f903e2-ab15-4786-80cf-2a8b37d2d991"  />
-   <img  height= "550" src="https://github.com/user-attachments/assets/859a77fd-7eb1-4b9b-87d8-544fc0eb352c"  />
+   <img  height= "550" src="https://github.com/user-attachments/assets/15a574b6-4897-4fd8-9c52-cdaa09a63653"  />
+   <img  height= "550" src="https://github.com/user-attachments/assets/d4d36007-5b71-4b50-92a6-b4456639b717"  />
+   <img  height= "550" src="(https://github.com/user-attachments/assets/6735befd-0ccf-4d00-bbfb-e8fb22331ccf"  />
 
 
  </div>
 
 
+https://github.com/user-attachments/assets/ce28505a-c28d-4bc2-b2e9-ae003559f7c1
 
 
 
-https://github.com/user-attachments/assets/9d8479f0-d019-4e24-a55a-1a49743db340
 
